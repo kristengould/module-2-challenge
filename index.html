@@ -2,24 +2,54 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Kristen Gould | Portfolio</title>
 </head>
 <body>
     <header>
         <h1>Kristen Gould</h1>
-        <ul>
-            <li><a>About Me</a></li>
-            <li><a>Work</a></li>
-            <li><a>Contact Me</a></li>
-            <li><a>Resume</a></li>
-        </ul>
+        <nav>
+            <ul>
+                <li>
+                 <a href="#about-me">About Me</a>
+                </li>
+                <li>
+                 <a href="#work">Work</a>
+                </li>
+                <li>
+                    <a href="#contact-me">Contact Me</a>
+                </li>
+                <li>
+                    <a href="#resume">Resume</a>
+                </li>
+            </ul>
+        </nav>
+        <img src="./assets/images/profile.jpg" alt="profile image">
     </header>
     <main>
-        <section>
+        <section class="about-me" id="about-me">
             <h2>About Me</h2>
-            <img src="./assets/images/profile.jpg" alt="profile image">
+            <p>About me info</p>
+        </section>
+        <section class="work" id="work">
+            <h2>Work</h2>
+            <ul>
+                <li><img src="./assets/images/sample.jpg" title="project title" alt="alt text"></li>
+                <li><img src="./assets/images/sample-1.jpg" title="project title" alt="alt text"></li>
+                <li><img src="./assets/images/sample-2.png" title="project title" alt="alt text"></li>
+            </ul>
+        </section>
+        <section class=contact-me id="contact-me">
+            <h2>Contact Me</h2>
+            <ul>
+                <li>Email: <a href= "mailto: kristencgould@icloud.com">kristencgould@icloud.com</a></li>
+                <li>LinkedIn: </li>
+                <li>GitHub: </li>
+            </ul>
+        </section>
+        <section class= resume id="resume">
+            <h2>Resume</h2>
         </section>
     </main>
 </body>
