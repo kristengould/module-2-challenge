@@ -6,6 +6,7 @@ This project is a professional portfolio page. The purpose of this portfolio is 
 
 ## Usage
 
+Link to deployed site: https://kristengould.github.io/professional-portfolio/
 
 ![image of the deployed website's header](assets/images/website-img.png)
 
