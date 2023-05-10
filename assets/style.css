@@ -52,7 +52,7 @@ main section h2 {
 }
 
 .about-me p {
-    margin-left: 50px;
+    margin-left: 60px;
 }
 
 .work {
@@ -70,10 +70,6 @@ nav ul li:hover {
 
 .contact-me ul {
     margin-left: 20px;
-}
-
-.resume {
-    margin-left: 40px;
 }
 
 @media only screen and (max-width:500px) {
