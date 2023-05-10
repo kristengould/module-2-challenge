@@ -7,6 +7,6 @@ This project is a professional portfolio page. The purpose of this portfolio is 
 ## Usage
 
 
-! [image of the deployed website's header](assets/images/website-img.png)
+![image of the deployed website's header](assets/images/website-img.png)
 
 Click the links in the header to jump to the section you would like to read about! You can also click directly on the links in the contact section to send me an email and access my GitHub and LinkedIn.
